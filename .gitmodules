@@ -1,0 +1,36 @@
+[submodule "InstrumentCluster"]
+	path = InstrumentCluster
+	url = https://github.com/DES-Team-02/InstrumentCluster
+[submodule "HeadUnit"]
+	path = HeadUnit
+	url = https://github.com/DES-Team-02/HeadUnit
+[submodule "car_control"]
+	path = car_control
+	url = https://github.com/DES-Team-02/car_control
+[submodule "pydbus_module"]
+	path = pydbus_module
+	url = https://github.com/DES-Team-02/pydbus_module
+[submodule "battery_info"]
+	path = battery_info
+	url = https://github.com/DES-Team-02/battery_info
+[submodule "FrancaIDL"]
+	path = FrancaIDL
+	url = https://github.com/DES-Team-02/FrancaIDL
+[submodule "CanTransceiver"]
+	path = CanTransceiver
+	url = https://github.com/DES-Team-02/CanTransceiver
+[submodule "acdc_sensor"]
+	path = acdc_sensor
+	url = https://github.com/DES-Team-02/acdc_sensor
+[submodule "rpm_sensor"]
+	path = rpm_sensor
+	url = https://github.com/DES-Team-02/rpm_sensor
+[submodule "ad_perception"]
+	path = ad_perception
+	url = https://github.com/DES-Team-02/ad_perception
+[submodule "meta-headunit"]
+	path = meta-headunit
+	url = https://github.com/DES-Team-02/meta-headunit
+[submodule "meta-dashboard"]
+	path = meta-dashboard
+	url = https://github.com/DES-Team-02/meta-dashboard
